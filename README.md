@@ -1,16 +1,7 @@
-# recipe_app
+# Recipe app 
 
-Recipe App
+## About The Project
 
-## Getting Started
+Thanks to the http library, I can pull data from the internet using the api key. <br><br>
+![image](https://user-images.githubusercontent.com/79968953/179428744-f266a182-4900-482c-896d-213c98885dd6.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
